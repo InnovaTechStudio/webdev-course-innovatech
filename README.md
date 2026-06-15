@@ -5,11 +5,11 @@
 🦇 *Proyecto desarrollado para el curso de Aplicaciones Web - Ingeniería de Software - UPC (Periodo 202610).*
 **Equipo InnovaTech:**
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
-* Luis Miranda, Diego Andres (U20241D185)
-* Mamani Vilca, Alan Jaivi (U20241E299)
-* Pillaca Gonzales, Andy Saúl (U202418823)
-* Sanchez Cuadrado, Juan Antonio (U202319404)
-  
+*
+*
+*
+*
+ 
 **📂 Repositorio de código fuente**: [https://github.com/InnovaTechStudio/webdev-course-innovatech](https://github.com/InnovaTechStudio/webdev-course-innovatech/tree/main)
 
 * **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
