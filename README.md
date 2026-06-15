@@ -2,6 +2,15 @@
 
 ¡Hola! Qué genial que estés aquí. En este curso introductorio vas a aprender a crear tu propia página web desde cero usando HTML y CSS. No vas a tener que instalar absolutamente nada aburrido ni complicado; todo lo haremos directamente en tu navegador usando **CodePen**.
 
+🦇 *Proyecto desarrollado para el curso de Aplicaciones Web - Ingeniería de Software - UPC (Periodo 202610).*
+**Equipo InnovaTech:**
+* Lopez Monroy, Rodrigo Alfredo (U202421866)
+* Luis Miranda, Diego Andres (U20241D185)
+* Mamani Vilca, Alan Jaivi (U20241E299)
+* Pillaca Gonzales, Andy Saúl (U202418823)
+* Sanchez Cuadrado, Juan Antonio (U202319404)
+* [Repositorio del código fuente](https://github.com/InnovaTechStudio/webdev-course-innovatech/tree/main)
+
 A lo largo de estos 10 videos cortos, iremos construyendo juntos una página web personal. ¡Sigue el paso a paso y diviértete programando!
 
 ---
@@ -76,11 +85,3 @@ Unimos todas las piezas. Es tu turno de personalizar todo lo que construimos con
 * 🎃 **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc9b-cd56-73bd-93e2-b88bf15403ec)
 
 ---
-
-🦇 *Proyecto desarrollado por la Carrera de Ingeniería de Software - UPC (Periodo 202610).*
-**Equipo InnovaTech Studio:**
-* Lopez Monroy, Rodrigo Alfredo (U202421866)
-* Luis Miranda, Diego Andres (U20241D185)
-* Mamani Vilca, Alan Jaivi (U20241E299)
-* Pillaca Gonzales, Andy Saúl (U202418823)
-* Sanchez Cuadrado, Juan Antonio (U202319404)
