@@ -9,7 +9,12 @@
 * Mamani Vilca, Alan Jaivi (U20241E299)
 * Pillaca Gonzales, Andy Saúl (U202418823)
 * Sanchez Cuadrado, Juan Antonio (U202319404)
-* [Repositorio del código fuente](https://github.com/InnovaTechStudio/webdev-course-innovatech/tree/main)
+  
+**📂 Repositorio de código fuente**: [https://github.com/InnovaTechStudio/webdev-course-innovatech](https://github.com/InnovaTechStudio/webdev-course-innovatech/tree/main)
+
+* **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+* **Prerrequisitos**: Ninguno
+* **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
 A lo largo de estos 10 videos cortos, iremos construyendo juntos una página web personal. ¡Sigue el paso a paso y diviértete programando!
 
