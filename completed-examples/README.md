@@ -1,6 +1,6 @@
 # ✅ Soluciones Completadas (Completed Examples)
 
-[cite_start]En esta sección se encuentran almacenadas todas las soluciones finales y versiones terminadas de cada una de las lecciones prácticas del curso.
+En esta sección se encuentran almacenadas todas las soluciones finales y versiones terminadas de cada una de las lecciones prácticas del curso.
 
 Si te atascas en algún paso, puedes comparar tu progreso con estos ejemplos resueltos:
 
