@@ -5,7 +5,7 @@
 🦇 *Proyecto desarrollado para el curso de Aplicaciones Web - Ingeniería de Software - UPC (Periodo 202610).*
 **Equipo InnovaTech:**
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
-*
+* Luis Miranda, Diego Andres (U20241D185)
 *
 *
 *
