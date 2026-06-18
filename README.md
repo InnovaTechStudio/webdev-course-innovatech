@@ -7,7 +7,7 @@
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
 * Luis Miranda, Diego Andres (U20241D185)
 * Mamani Vilca, Alan Jaivi (U20241E299)
-*
+* Pillaca Gonzales, Andy Saúl (U202418823)
 *
  
 **📂 Repositorio de código fuente**: [https://github.com/InnovaTechStudio/webdev-course-innovatech](https://github.com/InnovaTechStudio/webdev-course-innovatech/tree/main)
